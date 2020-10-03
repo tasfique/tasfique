@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Make my startup happen
 - ⚡ Fun fact: I can play the piano, and love to analyse things.
+- 📫 How to reach me: te696@uowmail.edu.au
 
 <br />
 
