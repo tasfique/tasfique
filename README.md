@@ -1,7 +1,10 @@
 ### Hi there, I'm Tasfique - aka [Taz] 👋
 
-## A person, who seeks for boundless knowledge, and loves to learn new things, apart from majoring Computer Science in Software Engineering at the University of Wollongong, I have interests in different fields such as Economics, Business, Science, Psychology and Politics. I inspire to create technologies that connects with human and make their lives better. I am an energetic and ongoing person, with a knack of quirkiness and I live my life with this motto, “I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.” – Mewtwo.
+## A person, who seeks for boundless knowledge, and loves to learn new things, apart from majoring Computer Science in Software Engineering at the University of Wollongong, I have interests in different fields such as Economics, Business, Science, Psychology and Politics. I inspire to create technologies that connects with human and make their lives better. I am an energetic and ongoing person, with a knack of quirkiness.
 
+<br />
+
+## I live my life with this motto, “I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.” – Mewtwo.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
