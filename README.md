@@ -4,11 +4,15 @@
 
 ## I live my life with this motto, “I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.” – Mewtwo.
 
+<br />
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Make my startup happen
 - ⚡ Fun fact: I can play the piano, and love to analyse things.
 - 📫 How to reach me: te696@uowmail.edu.au
+
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -31,11 +35,13 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+<br />
+<br />
+
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tazoman&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
-<br />
 <br />
 
 ---
