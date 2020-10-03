@@ -1,4 +1,4 @@
-### Hi there, I'm Tasfique - aka [Taz] 👋
+### Hi there, I'm Tasfique - aka [Taz] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## A person, who seeks for boundless knowledge, and loves to learn new things, apart from majoring Computer Science in Software Engineering at the University of Wollongong, I have interests in different fields such as Economics, Business, Science, Psychology and Politics. I inspire to create technologies that connects with human and make their lives better. I am an energetic and ongoing person, with a knack of quirkiness.
 
@@ -12,6 +12,10 @@
 - ⚡ Fun fact: I can play the piano, and love to analyse things.
 - 📫 How to reach me: te696@uowmail.edu.au
 
+<br />
+
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfique&theme=<Black>" />
+-->
 <br />
 
 ### Languages and Tools:
