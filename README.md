@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Make my startup happen
-- ⚡ Fun fact: I can play the piano, write poems.
+- ⚡ Fun fact: I can write poems.
 - 📫 How to reach me: tasfique.enam696@uowmail.edu.au
 
 <br />
