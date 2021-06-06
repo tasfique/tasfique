@@ -1,6 +1,6 @@
 ### Hi there, I'm Tasfique - aka [Taz] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I live my life with this motto, “I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.” – Mewtwo.
+## If the world is truly quantum mechanical, we should change our view of what is obvious and what is surprising.
 
 <br />
 
