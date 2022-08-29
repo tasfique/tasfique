@@ -10,7 +10,6 @@
 - 📫 How to reach me: tasfique.enam@gmail.com
 - 🎓 Bachelor of Computer Science (Software Engineering) from University of Wollongong
 - 🎓 Master of Cyber Security from University of Adelaide 2022-2024
-
 <br />
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfique&theme=<Black>" />
