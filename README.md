@@ -8,6 +8,15 @@
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I can write poems.
 - 📫 How to reach me: tasfique.enam@gmail.com
+- 🎓 Bachelor of Computer Science (Software Engineering) from University of Wollongong
+- 🎓 Master of Cyber Security from University of Adelaide 2022-2024
+
+Bachelor of Computer Science
+(Software Engineering)
+University of Wollongong
+
+Master of Cyber Security 
+University of Adelaide
 
 <br />
 
